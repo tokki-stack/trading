@@ -23053,9 +23053,9 @@ const environment = {
     production: false,
     isMockEnabled: true,
     authTokenKey: 'authce9d77b308c149d5992a80073637e4d5',
-    baseURL: 'http://localhost:3300',
+    // baseURL: 'http://localhost:3300',
+    baseURL: 'http://144.202.106.252:3300',
     apiKey: "testApiKey"
-    // baseURL:  'http://157.230.5.127:3300'
 };
 /*
  * For easier debugging in development mode, you can import the following file
